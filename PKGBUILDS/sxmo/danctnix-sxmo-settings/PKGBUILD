@@ -1,6 +1,6 @@
 # Maintainer: dni <office@dnilabs.com>
 pkgname=danctnix-sxmo-settings
-pkgver=20211203
+pkgver=20211206
 pkgrel=1
 pkgdesc="Configuration files for SXMO"
 url="https://sr.ht/~mil/Sxmo/"
